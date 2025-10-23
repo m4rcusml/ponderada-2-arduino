@@ -4,6 +4,9 @@ Projeto simples para observar a carga de um circuito RC.
 O Arduino lê a tensão no resistor (VR) no pino A0, calcula a tensão no capacitor (VC = 5 − VR) e mostra ambas em um LCD 16×2.  
 Os valores medidos podem ser registrados em `dados.csv` e o gráfico é gerado por `grafico-codigo.py`.
 
+## Links
+* Circuito no Tinkercad: https://www.tinkercad.com/things/bKlQUlv2gnd-ponderada-2?sharecode=lc_0XIbncLI5HRIdCnXOOd0in5l7vTv8_uTx7dmx82g
+
 <!-- Imagem do circuito centralizada -->
 <p align="center">
   <img src="./circuito.png" alt="Esquema do circuito RC" width="520">
